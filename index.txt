@@ -1,81 +1,11 @@
+```{r}
+library(animation)
+```
+
+
+
+
 <html>
-
-
-<style type="text/css">
-h1 {
-  font-size: 38px;
-}
-h1.title {
-  font-size: 40px;
-}
-h2 {
-  font-size: 26px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
-
-
-</head>
-
-<body>
-
-<style type="text/css">
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
-img {
-  max-width:100%;
-  height: auto;
-}
-.tabbed-pane {
-  padding-top: 12px;
-}
-button.code-folding-btn:focus {
-  outline: none;
-}
-</style>
-
-
-
-<div class="container-fluid main-container">
-
-<!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
-
-<!-- code folding -->
-
-
-
-
-
-
-<div class="fluid-row" id="header">
-
-
 
 <h1 class="title toc-ignore">iRest Meditations - Fall 2017</h1>
 <h3 class="subtitle">Taught by Sheila Figliotti, LCSW-R</h3> 
@@ -83,8 +13,6 @@ $(document).ready(function () {
 <h4 class="author"><em>Compiled by K. Vorenkamp </em></h4>
 
 
-
-</div>
 
 
 <p> <h5><b>September 28, 2017</b></h5>
