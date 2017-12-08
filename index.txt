@@ -1,10 +1,6 @@
 ```{r}
 library(animation)
 ```
-
-
-
-
 <html>
 
 <h1 class="title toc-ignore">iRest Meditations - Fall 2017</h1>
