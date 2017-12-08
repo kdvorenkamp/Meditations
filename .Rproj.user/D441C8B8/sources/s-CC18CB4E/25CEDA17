@@ -5,19 +5,19 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "147286469",
+    "hash" : "3450017445",
     "id" : "25CEDA17",
-    "lastKnownWriteTime" : 1512700899,
-    "last_content_update" : 1512700899339,
+    "lastKnownWriteTime" : 1512705423,
+    "last_content_update" : 1512705460743,
     "path" : "C:/Users/kendravo/Desktop/Classes/iRest Meditations/index.html",
     "project_path" : "index.html",
     "properties" : {
-        "cursorPosition" : "192,7",
-        "scrollLine" : "179",
+        "cursorPosition" : "143,140",
+        "scrollLine" : "135",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "html"
+    "type" : "r_html"
 }
